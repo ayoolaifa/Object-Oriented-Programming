@@ -1,0 +1,47 @@
+124566, mouse, standard, Advent, grey, wired, 27, 2.5, 4.99, 2
+124455, keyboard, standard, Advent, white, wired, 6, 3.5, 5.99, UK
+221101, mouse, standard, Logitech, black, wired, 18, 3.0, 6.99, 3
+237799, mouse, standard, Logitech, grey, wireless, 12, 7.0, 8.0, 2
+237788, keyboard, standard, Logitech, grey, wired, 15, 6.5, 8.99, UK
+112233, mouse, gaming, Logitech, black, wireless, 14, 7.5, 9.5, 3
+123455, keyboard, gaming, Razer, green, wired, 0, 4.9, 10.0, UK
+237700, mouse, gaming, Anker, black, wired, 6, 8.0, 11.99, 7
+346874, keyboard, standard, Anker, blue, wired, 20, 8.99, 12.99, UK
+244652, keyboard, gaming, Apple, blue, wired, 7, 12.0, 14.0, UK
+121212, mouse, standard, Apple, white, wireless, 9999, 12.0, 14.0, 12
+356578, keyboard, flexible, Amazon, blue, wired, 30, 12.0, 15.0, UK
+221104, keyboard, flexible, DELL, black, wired, 39, 12.99, 15.99, US
+324556, keyboard, flexible, Amazon, white, wired, 11, 12.0, 16.0, US
+236677, mouse, standard, Asus, blue, wireless, 8, 10.0, 16.99, 5
+503456, mouse, gaming, Logitech, red, wireless, 30, 10.99, 16.99, 6
+354334, mouse, standard, Viglen, black, wired, 28, 12.99, 17.99, 3
+223044, mouse, gaming, Anker, blue, wired, 1, 16.0, 18.5, 10
+754034, mouse, standard, Amazon, black, wireless, 56, 15.0, 20.0, 3
+432355, mouse, gaming, G-Lab, black, wired, 30, 12.99, 20.99, 7
+569833, keyboard, standard, Google, white, wireless, 49, 15.99, 23.0, UK
+476543, keyboard, standard, HP, red / black, wireless, 30, 23.0, 29.0, UK
+457657, mouse, gaming, Razer, red, wired, 10, 20.0, 29.99, 8
+600000, mouse, standard, Logitech, white, wireless, 44, 23.99, 29.99, 3
+125567, keyboard, flexible, Logitech, black, wireless, 0, 25.99, 30.0, US
+238800, keyboard, flexible, Microsoft, black, wired, 10, 26.5, 30.0, US
+123459, mouse, standard, Apple, white, wireless, 14, 20.0, 30.0, 2
+432435, mouse, gaming, Microsoft, black, wired, 15, 20.99, 30.99, 3
+800000, keyboard, flexible, DELL, red, wireless, 49, 25.0, 35.0, UK
+876890, keyboard, standard, Logitech, white, wireless, 30, 29.99, 35.99, US
+246547, keyboard, standard, Asus, red, wired, 10, 33.99, 37.99, UK
+123456, keyboard, gaming, Corsair, black, wired, 19, 30.0, 39.99, UK
+221122, mouse, gaming, Razer, black, wired, 11, 28.0, 40.99, 7
+756345, keyboard, standard, Viglen, black, wired, 25, 32.99, 40.99, UK
+234465, mouse, standard, Microsoft, red, wired, 10, 40.56, 45.99, 2
+563345, keyboard, gaming, Asus, purple, wireless, 70, 40.99, 49.99, UK
+355754, mouse, gaming, HP, black / teal, wireless, 28, 43.99, 51.99, 15
+254365, mouse, gaming, Asus, black, wired, 49, 45.0, 53.99, 8
+902344, mouse, gaming, Razer, red, wired, 6, 53.99, 57.99, 7
+120394, mouse, gaming, Asus, grey, wired, 29, 53.45, 58.0, 8
+456762, keyboard, standard, DELL, green, wireless, 30, 49.99, 59.99, UK
+235066, keyboard, flexible, Microsoft, black, wireless, 5, 45.5, 60.0, UK
+435654, keyboard, gaming, Razer, green / black, wireless, 11, 50.99, 70.99, UK
+234555, keyboard, standard, Apple, white, wireless, 9, 75.5, 85.5, US
+454343, mouse, standard, Razer, green, wired, 23, 79.99, 85.99, 10
+786545, mouse, gaming, Razer, red / black, wired, 16, 90.0, 95.99, 13
+143589, keyboard, gaming, Corsair, white, wireless, 56, 139.97, 143.85, UK
